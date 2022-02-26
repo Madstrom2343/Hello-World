@@ -1,0 +1,13 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p {
+    text-align: center;
+    padding: 1rem;
+}
